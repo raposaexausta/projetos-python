@@ -1,3 +1,8 @@
+#Este código foi feito usando while true porque cria um laço infinito
+#O programa roda continuamente até que o user encerre
+#Se algo inválido for digitado, o continue faz o laço recomeçar do início
+#Evita que o programa termine por erro e permite novas tentativas sem precisar reiniciar o script.
+
 while True:
     num1 = input ('Digite o primeiro número: ')
     num2 = input('Digite o segundo número: ')
